@@ -3,11 +3,13 @@ The painstaking process of enngineering the perfect 3-d printing trigger mecahni
 
 
 # Design v1.00
-> Version 1
+> Version 1: Tri-Pivot Instant Release Trigger
+
 ![alt text](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5d076036227505.5714b2950a264.jpg)
 
+</br> 
 
-![alt text](images/mech_portfoloi_1.png)
+![alt text](images/2024-08-05_01-36.png)
 
 
 
